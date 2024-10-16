@@ -1,0 +1,1 @@
+export const email = "dimairak88@wp.pl";
