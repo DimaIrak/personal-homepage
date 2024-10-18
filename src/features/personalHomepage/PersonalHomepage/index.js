@@ -5,6 +5,7 @@ import { ThemeSwitch } from "../../../common/ThemeSwitch";
 import toolsIcon from "./toolsIcon.png";
 import rocketIcon from "./rocketIcon.png";
 import { Skills } from "./Skills";
+import { Footer} from "./Footer";
 
 export const PersonalHomepage = () => (
     <Container>
@@ -30,5 +31,6 @@ export const PersonalHomepage = () => (
                 skills={nextSkills}
             />
         </main>
+        <Footer />
     </Container>
 );
