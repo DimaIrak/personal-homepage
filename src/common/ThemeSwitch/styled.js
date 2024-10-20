@@ -36,7 +36,9 @@ export const Box = styled.span`
     display: flex;
 `;
 
-export const IconWrapper = styled.span`
+export const IconWrapper = styled.span.withConfig({
+    shouldForwardProp: (prop) => prop !== 'moveToRight',
+})`
     background: currentColor;
     padding: 3px;
     border-radius: 50%;
