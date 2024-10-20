@@ -9,7 +9,7 @@ export const Section = styled.section`
     }
 `;
 
-export const styledGithubIcon = styled(GithubIcon)`
+export const StyledGithubIcon = styled(GithubIcon)`
     color: ${({ theme }) => theme.colors.primary};
     margin-bottom: 8px;
 `;
