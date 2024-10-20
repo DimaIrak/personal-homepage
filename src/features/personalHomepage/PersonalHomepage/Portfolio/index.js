@@ -1,8 +1,10 @@
 import { useEffect } from "react";
-import { styledGithubIcon, Header, Section, MyRecentProjects } from "./styled";
+import { Content } from "./Content";
+import { StyledGithubIcon, Header, Section, MyRecentProjects } from "./styled";
 import { githubUsername } from "./githubUsername";
+import { SubHeader } from "../SubHeader";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchRepositories, selectRepositories, selectRepositoriesStatus } from "../../PersonalHomepage";
+import { fetchRepositories, selectRepositories, selectRepositoriesStatus } from "../../personalHomepageSlice";
 
 export const Portfolio = () => {
     const dispatch = useDispatch();
@@ -17,9 +19,15 @@ export const Portfolio = () => {
     return (
         <Section>
             <Header>
-                <styledGithubIcon />
+                <StyledGithubIcon />
+                <SubHeader>Portfolio</SubHeader>
                 <MyRecentProjects>My recent projects</MyRecentProjects>
             </Header>
+
+            <Content
+                status={repositoriesStatus}
+                repositories={repositories}
+            />
         </Section>
     );
 };
