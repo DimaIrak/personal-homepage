@@ -10,7 +10,7 @@ export const Footer = () => (
                 <EmailLink href={`mailto:${email}`}>{email}</EmailLink>
             </EmailWrapper>
             <Paragraph>
-                lorem ipsum ,hgkjfklhglkhb ,kkhhglklkugb ,kbkjjblkjbkjb  jhgvjjhhbg ,jhhvkjhhvjkh jhv.
+            I'm always excited to&nbsp;take on new projects whenever I&nbsp;have the time. If you're planning a&nbsp;website, dashboard, or mobile app, don't hesitate to reach out to&nbsp;me! ✌️
             </Paragraph>
             <SocialIcons />
         </Address>
