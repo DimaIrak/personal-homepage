@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { ButtonLink } from "../ButtonLink";
-import { ReactComponent as EnvelopeIcon } from "./Rectangle_511.svg"
+import { ReactComponent as EnvelopeIcon } from "./Message.svg"
 
 export const Wrapper = styled.header`
     margin-top: -30px;
