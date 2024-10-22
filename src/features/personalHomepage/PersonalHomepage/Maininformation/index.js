@@ -9,7 +9,7 @@ export const MainInformation = () => (
             <ThisIs>This is</ThisIs>
             <Name>Dmytro Artiuk</Name>
             <Summary>
-                I'm a passionate Frontend Developer in love with React,I'm continuously honing my skills to stay updated with the latest trends and technologies. Currently, I'm actively seeking new opportunities where I can apply my expertise in building responsive, user-friendly applications while collaborating with a&nbsp;forward-thinking team.
+                👨‍🎓💻I'm a passionate Frontend Developer in love with React,I'm continuously honing my skills to stay updated with the latest trends and technologies. Currently, I'm actively seeking new opportunities where I can apply my expertise in building responsive, user-friendly applications while collaborating with a&nbsp;forward-thinking team.
             </Summary>
             <StyledButtonLink href={`mailto:${email}`} title={email}>
                 <ButtonIcon />
