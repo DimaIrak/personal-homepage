@@ -12,7 +12,7 @@ export const socials = [
     },
     {
         name: "Facebook",
-        url: "http://facebook.com",
+        url: "https://www.facebook.com/dimon.irak",
         Icon: styleIcon(FacebookIcon),
     },
     {
@@ -22,7 +22,7 @@ export const socials = [
     },
     {
         name: "Instagram",
-        url: "http://instagram.com",
+        url: "https://www.instagram.com/dmytroartiuk/",
         Icon: styleIcon(InstagramIcon),
     },
 ]
