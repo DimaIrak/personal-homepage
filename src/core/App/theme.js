@@ -3,7 +3,7 @@ const colorNames = {
     blumine: "#1F5189",
     dodgerBlue: "#2188FF",
     shipCove: "#6D93BE",
-    anakiwa: "#8CC2F",
+    anakiwa: "#8CC2FF",
     tropicalBlue: "#CDE0F7",
     ironTransparent: "rgba(209, 213, 218, 0.3)",
     white: '#FFFFFF',
