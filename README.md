@@ -4,7 +4,7 @@
 
 ## Description
 
-Hi, I'm Dima, and this is a page about me,where you will find information about what I already know and what I want to learn in the future.
+Hi, I'm Dima, and this is a page about me,here you will find information about what I already know and what I want to learn in the future.
 
 ## Demo
 
