@@ -1,6 +1,6 @@
 # Personal Homepage
 
-![screen Header](image.png)
+![screen Header](./src/assets/photo.png)
 
 ## Getting Started with Create React App
 
