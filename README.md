@@ -2,6 +2,10 @@
 
 ![screen Header](./src/assets/photo.png)
 
+## Description
+
+Hi, I'm Dima, and this is a page about me,where you will find information about what I already know and what I want to learn in the future.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
