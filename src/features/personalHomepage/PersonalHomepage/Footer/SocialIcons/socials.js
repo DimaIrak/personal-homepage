@@ -17,7 +17,7 @@ export const socials = [
     },
     {
         name: "LinkedIn",
-        url: "http://linkedin.com",
+        url: "https://www.linkedin.com/in/dmytro-artiuk/",
         Icon: styleIcon(LinkedIcon),
     },
     {
